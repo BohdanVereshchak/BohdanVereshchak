@@ -1,6 +1,6 @@
 # Hi, I'm Bohdan Vereshchak
 
-> **Software Developer | Game Engineer | Embedded Systems Enthusiast**
+> **Software Engineer | Game Developer | Embedded Systems Enthusiast**
 
 I build projects with C#, Python, and Unity, with a focus on software
 engineering and game development. I'm also interested in embedded systems.
